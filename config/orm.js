@@ -12,16 +12,6 @@ Here is the O.R.M. where you write functions that takes inputs and conditions an
 
 var connection = require('../config/connection.js');
 
-// var show = function(){
-//     console.log("show")
-// }
-
-// if(true) {
-//     show()
-// }
-// if(false) {
-//     show(); // this doesn't output
-// }
 
 function printQuestionMarks(num) {
 	var arr = [];

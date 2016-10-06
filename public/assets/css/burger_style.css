@@ -1,6 +1,5 @@
 body {
 	background-color: #120012;
-
 }
 
 h1{
@@ -20,7 +19,6 @@ h5 {
 	color: red
 }
 
-.lead {
-	float:right;
-	
+ul {
+	float:right;	
 }
