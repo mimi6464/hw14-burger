@@ -1,0 +1,26 @@
+body {
+	background-color: #120012;
+
+}
+
+h1{
+	font-size: 45px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+}
+h3 {
+  text-align: center;	
+  color: #fff;
+  font-size: 20px;
+  
+}
+h5 {
+	font-size: 20px;
+	color: red
+}
+
+.lead {
+	float:right;
+	
+}
